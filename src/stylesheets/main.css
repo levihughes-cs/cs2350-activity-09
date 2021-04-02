@@ -1,2 +1,15 @@
 /* TODO */
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+nav {
+    background-color: #eee;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    color: black;
+}
+
+.top-border {
+    border-top: 1px solid darkgray;
+}
